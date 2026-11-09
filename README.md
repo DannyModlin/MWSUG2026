@@ -27,12 +27,6 @@ You will then have access to the SAS Viya for Learners territory. https://learn.
 
 ---------------------------------------------------------------------------
 
-## Pre-Conference Paid Tutorial: Time for a Quick Start to Time Series Analysis
-
-Never had the TIME to investigate time series analysis? This is the quick start talk for you! This presentation will allow participants to start with a software agnostic introduction to time series where we will answer "What is a Time Series?" and "What are components of a Time Series?". We will then move into a discussion of the three main classes of time series models (ESM, UCM, and ARIMAX). Remaining time will allow the participant to see modeling of time series structures in both SAS 9.4 and in SAS Viya Visual Forecasting. Within SAS 9.4, emphasis will be placed on utilizing the SAS Studio tasks that will prompt the user for choices in their analysis. Time will be taken to view the associated code that is generated in SAS 9.4. This presentation will also take time to show SAS Viya Model Studio in which users can perform time series analysis in another GUI aspect. Discussion will be had concerning differences and similarities between the SAS 9.4 options and the SAS Visual Forecasting options. Do you have the TIME for this Quick Start?
-
----------------------------------------------------------------------------
-
 ## AS-068 : How to Modify SAS9 STAT Programs to Run in SAS Viya
 
 How can existing SAS 9 programs can be modified to execute in SAS Viya. Code can either run as is on the SAS Compute Server, or it can be modernized to process data in memory and in parallel on the SAS Cloud Analytic Services (CAS) server. This presentation is perfect for statisticians who are new to SAS Viya and want to continue performing their statistical analyses there. We will address questions that are typically asked.
