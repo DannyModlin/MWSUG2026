@@ -20,7 +20,7 @@ But what if you do not have EDU credentials but you do have a SAS profile? Can y
 
 <img width="457" height="159" alt="image" src="https://github.com/user-attachments/assets/85909730-1dc3-43a4-a253-9d9560999170" />
 
-4. In the popup that appears, copy and paste this code into the textbox: **Code Released Soon**
+4. In the popup that appears, copy and paste this code into the textbox: **FS00826133267**
 
 5. Click Activate and agree to the license agreement.
 You will then have access to the SAS Viya for Learners territory. https://learn.sas.com/course/view.php?id=6825
